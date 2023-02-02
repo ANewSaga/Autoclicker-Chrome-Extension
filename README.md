@@ -2,6 +2,6 @@
 # ExtensionTemplate
 =======
 # Autoclicker-Chrome-Extension
-Google chrome extension for auto clicking (working 2023!!)
+Google chrome extension for auto clicking (working 2023!!)\n
 Devin you just got ownidad!!!LOLLL
 ijodfhjaodifjsdfjisdfjidsfjsdf
